@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Alt Tag
 It stands for Alternative Tag.It is used to alert the user about the information in the website in more detail. For example if a blind person stumbels upon the image which has a alt tag then the website tells the user that there is a image there. It is also used to make the website userfriendly. If your network is very weak and if the image doesnt load then if a alt tag is used then it shows a logo and the image name.
 
 Title Tag
 It is also used to alert user about the information in the website in more detail. If we use a title tag then, when we hover our curser over the image it shows the title that we have inserted while coding.
 
+=======
+Alt Tag
+It stands for Alternative Tag.It is used to alert the user about the information in the website in more detail. For example if a blind person stumbels upon the image which has a alt tag then the website tells the user that there is a image there. It is also used to make the website userfriendly. If your network is very weak and if the image doesnt load then if a alt tag is used then it shows a logo and the image name.
+
+Title Tag
+It is also used to alert user about the information in the website in more detail. If we use a title tag then, when we hover our curser over the image it shows the title that we have inserted while coding.
+
+>>>>>>> d146465e27c09276b55d455fd95ace409398ba8a
 My Github repo link: https://github.com/Krishantamang/Web-Technologies.git
