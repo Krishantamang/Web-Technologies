@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Montserrat;
+   
+}
+nav{
+    height:15vh;
+    width: 100%;
+    background-image: url(bgd.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    font-size: 28px;
+    color: aliceblue;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 40px 5px;
+    font-size: 18px;
+}
+button{
+    background-color: rgb(37, 37, 36);
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 10px;
+    color: aliceblue;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(86, 85, 85);
+}
