@@ -2,14 +2,15 @@
     margin: 0;
     padding: 0;
     font-family:Montserrat;
-   
 }
-nav{
-    height:15vh;
+.navigation{
+    height:100vh;
     width: 100%;
     background-image: url(bgd.jpg);
     background-size: cover;
     background-position: center;
+    font-size: 4vh;
+
 }
 .logo{
     font-size: 28px;
@@ -19,9 +20,11 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 20px;
+    background-color: grey;
 }
 nav ul li{
     list-style-type: none;
@@ -44,4 +47,7 @@ button{
 }
 button:hover{
     background-color: rgb(86, 85, 85);
+}
+span{
+    color: aliceblue;
 }
